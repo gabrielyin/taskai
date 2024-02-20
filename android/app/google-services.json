@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874592364748",
+    "project_id": "taskai-50e91",
+    "storage_bucket": "taskai-50e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874592364748:android:90af81b953b93bcd877a69",
+        "android_client_info": {
+          "package_name": "com.mycompany.taskai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwjbwdibqwmtnIKXd1jhxnFrfYSJf3hA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

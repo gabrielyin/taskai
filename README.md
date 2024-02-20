@@ -1,2 +1,7 @@
-# taskai
-TaskAi é um aplicativo capaz de criar tarefas a partir de prompts em linguagem natural desenvolvido com flutter
+# TaskAi
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
